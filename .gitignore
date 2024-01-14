@@ -1,0 +1,17 @@
+hrmgt/mvnw
+hrmgt/mvnw.cmd
+hrmgt-client/node_modules/*
+*/.vscode
+*/.angular
+*/.idea
+*/.mvn
+
+*/target
+*/tokens
+
+hrmgt-client/README.md
+hrmgt/HELP.md
+hrmgt/.jpb/jpb-settings.xml
+hrmgt-client/.editorconfig
+hrmgt-client/src/favicon.ico
+hrmgt-client/src/assets/.gitkeep
